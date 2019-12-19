@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472490985820",
+    "firebase_url": "https://supamultis1mac.firebaseio.com",
+    "project_id": "supamultis1mac",
+    "storage_bucket": "supamultis1mac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472490985820:android:e06663bd60991f1ace1999",
+        "android_client_info": {
+          "package_name": "com.it_tech613.infinitystreamselite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472490985820-nph41jae6acsilc5ub099iklhb7on3ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTbxA2k5t_YX1YvRVQHGL9oQX9CJOq_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472490985820-nph41jae6acsilc5ub099iklhb7on3ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
